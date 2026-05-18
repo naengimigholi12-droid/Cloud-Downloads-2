@@ -1,0 +1,27 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6437",
+  "folder": "Movies__17059906-720p_20260518164302_1dbbcb",
+  "base_name": "Movies__17059906-720p_20260518164302_1dbbcb.mp4",
+  "is_split": true,
+  "part_count": 2,
+  "release_url": "https://github.com/naengimigholi12-droid/Cloud-Downloads-2/releases/tag/co-releases-v1-6437",
+  "files": [
+    {
+      "name": "Movies__17059906-720p_20260518164302_1dbbcb.mp4.part00",
+      "url": "https://github.com/naengimigholi12-droid/Cloud-Downloads-2/releases/download/co-releases-v1-6437/Movies__17059906-720p_20260518164302_1dbbcb.mp4.part00",
+      "api_url": "https://api.github.com/repos/naengimigholi12-droid/Cloud-Downloads-2/releases/assets/423453267",
+      "id": 423453267,
+      "size": 1704670622,
+      "download_count": 0
+    },
+    {
+      "name": "Movies__17059906-720p_20260518164302_1dbbcb.mp4.part01",
+      "url": "https://github.com/naengimigholi12-droid/Cloud-Downloads-2/releases/download/co-releases-v1-6437/Movies__17059906-720p_20260518164302_1dbbcb.mp4.part01",
+      "api_url": "https://api.github.com/repos/naengimigholi12-droid/Cloud-Downloads-2/releases/assets/423454046",
+      "id": 423454046,
+      "size": 1704670621,
+      "download_count": 0
+    }
+  ]
+}
